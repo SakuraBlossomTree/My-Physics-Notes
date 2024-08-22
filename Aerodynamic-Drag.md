@@ -1,5 +1,7 @@
 # Formulas
 
+## Drag force
+
 Here $F_d$ is the drag force.
 
 -  $F_d \propto$ **Density**
@@ -31,7 +33,7 @@ where:
 - $l$ is the characteristic length,
 - $\mu$ is the dynamic viscosity of the fluid.
 
-# Terminal Velocity
+## Terminal Velocity
 
 $$
 F_d = Gravity
